@@ -1,0 +1,40 @@
+body{
+	background-color: rgba(127, 63, 191, 0.3);
+}
+
+@font-face {
+	font-family: 'lasfont';
+		src: url(Anton-Regular.ttf);
+	}
+
+header {
+	font-family: 'lasfont'
+	color: navy;
+}
+
+ .About {
+  font-size: 12;
+  color: navy;
+  font-style: italic;
+}
+
+.Contact {
+	color: navy;
+	font-style: italic;
+	display: inline;
+}	
+
+#flowers div {
+	padding: 10px;
+	border: blue solid 3px;
+	margin: 15px;
+	display: inline-block;
+	box-shadow: 10px 10px grey;
+}
+
+section {
+	color: black;
+}
+
+
+
